@@ -1,0 +1,202 @@
+{
+  "1": {
+    "cn": "零",
+    "pinyin": "líng",
+    "pt": "zero"
+  },
+  "2": {
+    "cn": "一",
+    "pinyin": "yī",
+    "pt": "um"
+  },
+  "3": {
+    "cn": "二",
+    "pinyin": "èr",
+    "pt": "dois"
+  },
+  "4": {
+    "cn": "三",
+    "pinyin": "sān",
+    "pt": "três"
+  },
+  "5": {
+    "cn": "四",
+    "pinyin": "sì",
+    "pt": "quatro"
+  },
+  "6": {
+    "cn": "五",
+    "pinyin": "wǔ",
+    "pt": "cinco"
+  },
+  "7": {
+    "cn": "六",
+    "pinyin": "liù",
+    "pt": "seis"
+  },
+  "8": {
+    "cn": "七",
+    "pinyin": "qī",
+    "pt": "sete"
+  },
+  "9": {
+    "cn": "八",
+    "pinyin": "bā",
+    "pt": "oito"
+  },
+  "10": {
+    "cn": "九",
+    "pinyin": "jiǔ",
+    "pt": "nove"
+  },
+  "11": {
+    "cn": "十",
+    "pinyin": "shí",
+    "pt": "dez"
+  },
+  "12": {
+    "cn": "百",
+    "pinyin": "bǎi",
+    "pt": "cem"
+  },
+  "13": {
+    "cn": "千",
+    "pinyin": "qiān",
+    "pt": "mil"
+  },
+  "14": {
+    "cn": "月",
+    "pinyin": "yuè",
+    "pt": "mês"
+  },
+  "15": {
+    "cn": "一月",
+    "pinyin": "yī yuè",
+    "pt": "janeiro"
+  },
+  "16": {
+    "cn": "二月",
+    "pinyin": "èr yuè",
+    "pt": "fevereiro"
+  },
+  "17": {
+    "cn": "三月",
+    "pinyin": "sān yuè",
+    "pt": "março"
+  },
+  "18": {
+    "cn": "四月",
+    "pinyin": "sì yuè",
+    "pt": "abril"
+  },
+  "19": {
+    "cn": "五月",
+    "pinyin": "wǔ yuè",
+    "pt": "maio"
+  },
+  "20": {
+    "cn": "六月",
+    "pinyin": "liù yuè",
+    "pt": "junho"
+  },
+  "21": {
+    "cn": "七月",
+    "pinyin": "qī yuè",
+    "pt": "julho"
+  },
+  "22": {
+    "cn": "八月",
+    "pinyin": "bā yuè",
+    "pt": "agosto"
+  },
+  "23": {
+    "cn": "九月",
+    "pinyin": "jiǔ yuè",
+    "pt": "setembro"
+  },
+  "24": {
+    "cn": "十月",
+    "pinyin": "shí yuè",
+    "pt": "outubro"
+  },
+  "25": {
+    "cn": "十一月",
+    "pinyin": "shí yī yuè",
+    "pt": "novembro"
+  },
+  "26": {
+    "cn": "十二月",
+    "pinyin": "shí èr yuè",
+    "pt": "dezembro"
+  },
+  "27": {
+    "cn": "学",
+    "pinyin": "xué",
+    "pt": "aprender"
+  },
+  "28": {
+    "cn": "喝",
+    "pinyin": "hē",
+    "pt": "beber"
+  },
+  "29": {
+    "cn": "叫",
+    "pinyin": "jiào",
+    "pt": "chamar"
+  },
+  "30": {
+    "cn": "吃",
+    "pinyin": "chī",
+    "pt": "comer"
+  },
+  "31": {
+    "cn": "说",
+    "pinyin": "shuō",
+    "pt": "falar"
+  },
+  "32": {
+    "cn": "喜欢",
+    "pinyin": "xǐ huān",
+    "pt": "gostar"
+  },
+  "33": {
+    "cn": "想",
+    "pinyin": "xiǎng",
+    "pt": "gostaria"
+  },
+  "34": {
+    "cn": "去",
+    "pinyin": "qù",
+    "pt": "ir"
+  },
+  "35": {
+    "cn": "看",
+    "pinyin": "kàn",
+    "pt": "ler"
+  },
+  "36": {
+    "cn": "读",
+    "pinyin": "dú",
+    "pt": "ler"
+  },
+  "37": {
+    "cn": "会",
+    "pinyin": "huì",
+    "pt": "saber"
+  },
+  "38": {
+    "cn": "是",
+    "pinyin": "shì",
+    "pt": "ser"
+  },
+  "39": {
+    "cn": "有",
+    "pinyin": "yǒu",
+    "pt": "ter"
+  },
+  "40": {
+    "cn": "来",
+    "pinyin": "lái",
+    "pt": "vir"
+  }
+}
