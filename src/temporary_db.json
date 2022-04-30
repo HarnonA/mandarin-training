@@ -436,6 +436,113 @@
     "pinyin": "nà",
     "pt": "aquela",
     "categ": "Pronome"
+  },
+  "74": {
+    "cn": "他的",
+    "pinyin": "tā de",
+    "pt": "dele",
+    "categ": "Pronome"
+  },
+  "75": {
+    "cn": "她的",
+    "pinyin": "tā de",
+    "pt": "dela",
+    "categ": "Pronome"
+  },
+  "76": {
+    "cn": "它的",
+    "pinyin": "tā de",
+    "pt": "disto",
+    "categ": "Pronome"
+  },
+  "77": {
+    "cn": "我们的",
+    "pinyin": "wǒ mén de",
+    "pt": "nosso",
+    "categ": "Pronome"
+  },
+  "78": {
+    "cn": "你们的",
+    "pinyin": "nǐ mén de",
+    "pt": "seus",
+    "categ": "Pronome"
+  },
+  "79": {
+    "cn": "他们的",
+    "pinyin": "tā mén de",
+    "pt": "deles",
+    "categ": "Pronome"
+  },
+  "80": {
+    "cn": "mā ma",
+    "pinyin": "妈妈",
+    "pt": "mãe",
+    "categ": "Família"
+  },
+  "81": {
+    "cn": "bà ba",
+    "pinyin": "爸爸",
+    "pt": "pai",
+    "categ": "Família"
+  },
+  "82": {
+    "cn": "gē ge",
+    "pinyin": "哥哥",
+    "pt": "irmão mais velho",
+    "categ": "Família"
+  },
+  "83": {
+    "cn": "jiě jie",
+    "pinyin": "姐姐",
+    "pt": "irmã mais velha",
+    "categ": "Família"
+  },
+  "84": {
+    "cn": "yé ye",
+    "pinyin": "爷爷",
+    "pt": "vovô",
+    "categ": "Família"
+  },
+  "85": {
+    "cn": "nǎi nai",
+    "pinyin": "奶奶",
+    "pt": "vovó",
+    "categ": "Família"
+  },
+  "86": {
+    "cn": "mèi mei",
+    "pinyin": "妹妹",
+    "pt": "irmã mais nova",
+    "categ": "Família"
+  },
+  "87": {
+    "cn": "dì di",
+    "pinyin": "弟弟",
+    "pt": "irmão mais novo",
+    "categ": "Família"
+  },
+  "88": {
+    "cn": "nǚ er",
+    "pinyin": "女儿",
+    "pt": "filha",
+    "categ": "Família"
+  },
+  "89": {
+    "cn": "ér zi",
+    "pinyin": "儿子",
+    "pt": "filho",
+    "categ": "Família"
+  },
+  "90": {
+    "cn": "jiě mèi",
+    "pinyin": "姐妹",
+    "pt": "irmãs",
+    "categ": "Família"
+  },
+  "91": {
+    "cn": "xiōng di",
+    "pinyin": "兄弟",
+    "pt": "irmãos",
+    "categ": "Família"
   }
-
 }
