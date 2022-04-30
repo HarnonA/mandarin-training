@@ -2,201 +2,241 @@
   "1": {
     "cn": "零",
     "pinyin": "líng",
-    "pt": "zero"
+    "pt": "zero",
+    "categ": "Número"
   },
   "2": {
     "cn": "一",
     "pinyin": "yī",
-    "pt": "um"
+    "pt": "um",
+    "categ": "Número"
   },
   "3": {
     "cn": "二",
     "pinyin": "èr",
-    "pt": "dois"
+    "pt": "dois",
+    "categ": "Número"
   },
   "4": {
     "cn": "三",
     "pinyin": "sān",
-    "pt": "três"
+    "pt": "três",
+    "categ": "Número"
   },
   "5": {
     "cn": "四",
     "pinyin": "sì",
-    "pt": "quatro"
+    "pt": "quatro",
+    "categ": "Número"
   },
   "6": {
     "cn": "五",
     "pinyin": "wǔ",
-    "pt": "cinco"
+    "pt": "cinco",
+    "categ": "Número"
   },
   "7": {
     "cn": "六",
     "pinyin": "liù",
-    "pt": "seis"
+    "pt": "seis",
+    "categ": "Número"
   },
   "8": {
     "cn": "七",
     "pinyin": "qī",
-    "pt": "sete"
+    "pt": "sete",
+    "categ": "Número"
   },
   "9": {
     "cn": "八",
     "pinyin": "bā",
-    "pt": "oito"
+    "pt": "oito",
+    "categ": "Número"
   },
   "10": {
     "cn": "九",
     "pinyin": "jiǔ",
-    "pt": "nove"
+    "pt": "nove",
+    "categ": "Número"
   },
   "11": {
     "cn": "十",
     "pinyin": "shí",
-    "pt": "dez"
+    "pt": "dez",
+    "categ": "Número"
   },
   "12": {
     "cn": "百",
     "pinyin": "bǎi",
-    "pt": "cem"
+    "pt": "cem",
+    "categ": "Número"
   },
   "13": {
     "cn": "千",
     "pinyin": "qiān",
-    "pt": "mil"
+    "pt": "mil",
+    "categ": "Número"
   },
   "14": {
     "cn": "月",
     "pinyin": "yuè",
-    "pt": "mês"
+    "pt": "mês",
+    "categ": "Data"
   },
   "15": {
     "cn": "一月",
     "pinyin": "yī yuè",
-    "pt": "janeiro"
+    "pt": "janeiro",
+    "categ": "Data"
   },
   "16": {
     "cn": "二月",
     "pinyin": "èr yuè",
-    "pt": "fevereiro"
+    "pt": "fevereiro",
+    "categ": "Data"
   },
   "17": {
     "cn": "三月",
     "pinyin": "sān yuè",
-    "pt": "março"
+    "pt": "março",
+    "categ": "Data"
   },
   "18": {
     "cn": "四月",
     "pinyin": "sì yuè",
-    "pt": "abril"
+    "pt": "abril",
+    "categ": "Data"
   },
   "19": {
     "cn": "五月",
     "pinyin": "wǔ yuè",
-    "pt": "maio"
+    "pt": "maio",
+    "categ": "Data"
   },
   "20": {
     "cn": "六月",
     "pinyin": "liù yuè",
-    "pt": "junho"
+    "pt": "junho",
+    "categ": "Data"
   },
   "21": {
     "cn": "七月",
     "pinyin": "qī yuè",
-    "pt": "julho"
+    "pt": "julho",
+    "categ": "Data"
   },
   "22": {
     "cn": "八月",
     "pinyin": "bā yuè",
-    "pt": "agosto"
+    "pt": "agosto",
+    "categ": "Data"
   },
   "23": {
     "cn": "九月",
     "pinyin": "jiǔ yuè",
-    "pt": "setembro"
+    "pt": "setembro",
+    "categ": "Data"
   },
   "24": {
     "cn": "十月",
     "pinyin": "shí yuè",
-    "pt": "outubro"
+    "pt": "outubro",
+    "categ": "Data"
   },
   "25": {
     "cn": "十一月",
     "pinyin": "shí yī yuè",
-    "pt": "novembro"
+    "pt": "novembro",
+    "categ": "Data"
   },
   "26": {
     "cn": "十二月",
     "pinyin": "shí èr yuè",
-    "pt": "dezembro"
+    "pt": "dezembro",
+    "categ": "Data"
   },
   "27": {
     "cn": "学",
     "pinyin": "xué",
-    "pt": "aprender"
+    "pt": "aprender",
+    "categ": "Verbo"
   },
   "28": {
     "cn": "喝",
     "pinyin": "hē",
-    "pt": "beber"
+    "pt": "beber",
+    "categ": "Verbo"
   },
   "29": {
     "cn": "叫",
     "pinyin": "jiào",
-    "pt": "chamar"
+    "pt": "chamar",
+    "categ": "Verbo"
   },
   "30": {
     "cn": "吃",
     "pinyin": "chī",
-    "pt": "comer"
+    "pt": "comer",
+    "categ": "Verbo"
   },
   "31": {
     "cn": "说",
     "pinyin": "shuō",
-    "pt": "falar"
+    "pt": "falar",
+    "categ": "Verbo"
   },
   "32": {
     "cn": "喜欢",
     "pinyin": "xǐ huān",
-    "pt": "gostar"
+    "pt": "gostar",
+    "categ": "Verbo"
   },
   "33": {
     "cn": "想",
     "pinyin": "xiǎng",
-    "pt": "gostaria"
+    "pt": "gostaria",
+    "categ": "Verbo"
   },
   "34": {
     "cn": "去",
     "pinyin": "qù",
-    "pt": "ir"
+    "pt": "ir",
+    "categ": "Verbo"
   },
   "35": {
     "cn": "看",
     "pinyin": "kàn",
-    "pt": "ler"
+    "pt": "ler",
+    "categ": "Verbo"
   },
   "36": {
     "cn": "读",
     "pinyin": "dú",
-    "pt": "ler"
+    "pt": "ler",
+    "categ": "Verbo"
   },
   "37": {
     "cn": "会",
     "pinyin": "huì",
-    "pt": "saber"
+    "pt": "saber",
+    "categ": "Verbo"
   },
   "38": {
     "cn": "是",
     "pinyin": "shì",
-    "pt": "ser"
+    "pt": "ser",
+    "categ": "Verbo"
   },
   "39": {
     "cn": "有",
     "pinyin": "yǒu",
-    "pt": "ter"
+    "pt": "ter",
+    "categ": "Verbo"
   },
   "40": {
     "cn": "来",
     "pinyin": "lái",
-    "pt": "vir"
+    "pt": "vir",
+    "categ": "Verbo"
   }
 }
