@@ -238,5 +238,204 @@
     "pinyin": "lái",
     "pt": "vir",
     "categ": "Verbo"
+  },
+  "41": {
+    "cn": "红色",
+    "pinyin": "hóng sè",
+    "pt": "vermelho",
+    "categ": "Cor"
+  },
+  "42": {
+    "cn": "黄色",
+    "pinyin": "huáng sè",
+    "pt": "amarelo",
+    "categ": "Cor"
+  },
+  "43": {
+    "cn": "橙色",
+    "pinyin": "chéng sè",
+    "pt": "alaranjado",
+    "categ": "Cor"
+  },
+  "44": {
+    "cn": "绿色",
+    "pinyin": "lǜ sè",
+    "pt": "verde",
+    "categ": "Cor"
+  },
+  "45": {
+    "cn": "紫色",
+    "pinyin": "zǐ sè",
+    "pt": "roxo",
+    "categ": "Cor"
+  },
+  "46": {
+    "cn": "蓝色",
+    "pinyin": "lán sè",
+    "pt": "azul",
+    "categ": "Cor"
+  },
+  "47": {
+    "cn": "黑色",
+    "pinyin": "hēi sè",
+    "pt": "preto",
+    "categ": "Cor"
+  },
+  "48": {
+    "cn": "白色",
+    "pinyin": "bái sè",
+    "pt": "branco",
+    "categ": "Cor"
+  },
+  "49": {
+    "cn": "粉红色",
+    "pinyin": "fěn hóng sè",
+    "pt": "rosa",
+    "categ": "Cor"
+  },
+  "50": {
+    "cn": "咖啡色",
+    "pinyin": "kā fēi sè",
+    "pt": "marrom",
+    "categ": "Cor"
+  },
+  "51": {
+    "cn": "我",
+    "pinyin": "wǒ",
+    "pt": "eu",
+    "categ": "Pronome"
+  },
+  "52": {
+    "cn": "你",
+    "pinyin": "nǐ",
+    "pt": "você",
+    "categ": "Pronome"
+  },
+  "53": {
+    "cn": "它",
+    "pinyin": "tā",
+    "pt": "isto",
+    "categ": "Pronome"
+  },
+  "54": {
+    "cn": "他",
+    "pinyin": "tā",
+    "pt": "ele",
+    "categ": "Pronome"
+  },
+  "55": {
+    "cn": "她",
+    "pinyin": "tā",
+    "pt": "ela",
+    "categ": "Pronome"
+  },
+  "56": {
+    "cn": "我们",
+    "pinyin": "wǒ mén",
+    "pt": "nós",
+    "categ": "Pronome"
+  },
+  "57": {
+    "cn": "你们",
+    "pinyin": "nǐ mén",
+    "pt": "vocês",
+    "categ": "Pronome"
+  },
+  "58": {
+    "cn": "他们",
+    "pinyin": "tā mén",
+    "pt": "eles",
+    "categ": "Pronome"
+  },
+  "59": {
+    "cn": "她们",
+    "pinyin": "tā mén",
+    "pt": "elas",
+    "categ": "Pronome"
+  },
+  "60": {
+    "cn": "它们",
+    "pinyin": "tā mén",
+    "pt": "isto",
+    "categ": "Pronome"
+  },
+  "61": {
+    "cn": "您",
+    "pinyin": "nín",
+    "pt": "você",
+    "categ": "Pronome"
+  },
+  "62": {
+    "cn": "我的",
+    "pinyin": "wǒ de",
+    "pt": "meu",
+    "categ": "Pronome"
+  },
+  "63": {
+    "cn": "你的",
+    "pinyin": "nǐ de",
+    "pt": "seu",
+    "categ": "Pronome"
+  },
+  "64": {
+    "cn": "他的",
+    "pinyin": "tā de",
+    "pt": "dele",
+    "categ": "Pronome"
+  },
+  "65": {
+    "cn": "她的",
+    "pinyin": "tā de",
+    "pt": "dela",
+    "categ": "Pronome"
+  },
+  "66": {
+    "cn": "它的",
+    "pinyin": "tā de",
+    "pt": "disto",
+    "categ": "Pronome"
+  },
+  "67": {
+    "cn": "我们的",
+    "pinyin": "wǒ mén de",
+    "pt": "nosso",
+    "categ": "Pronome"
+  },
+  "68": {
+    "cn": "你们的",
+    "pinyin": "nǐ mén de",
+    "pt": "seus",
+    "categ": "Pronome"
+  },
+  "69": {
+    "cn": "他们的",
+    "pinyin": "tā mén de",
+    "pt": "deles",
+    "categ": "Pronome"
+  },
+  "70": {
+    "cn": "她们的",
+    "pinyin": "tā mén de",
+    "pt": "delas",
+    "categ": "Pronome"
+  },
+  "71": {
+    "cn": "它们的",
+    "pinyin": "tā mén de",
+    "pt": "disto",
+    "categ": "Pronome"
+  },
+  "72": {
+    "cn": "这",
+    "pinyin": "zhè",
+    "pt": "este",
+    "categ": "Pronome"
+  },
+  "73": {
+    "cn": "那",
+    "pinyin": "nà",
+    "pt": "aquela",
+    "categ": "Pronome"
   }
+
 }

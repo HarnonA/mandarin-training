@@ -6,7 +6,7 @@ import Custom from './Custom'
 
 const LANG = ['cn', 'pinyin', 'pt']
 const MAX_INDEX = 39
-const OPTIONS = ['Todos', 'Número', 'Data', 'Verbo']
+const OPTIONS = ['Todos', 'Número', 'Data', 'Verbo', 'Cor', 'Pronome']
 
 // console.log(Object.values(json).filter((e) => e.categ === 'dois')?.sort(() => (Math.random() > .5) ? 1 : -1))
 function App() {
